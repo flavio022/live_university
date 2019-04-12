@@ -1,0 +1,44 @@
+#div-lat-1{
+    background-color: #696969;
+    height: 100%;
+    width: 20%;
+    margin-left: 0px;  
+    float: left;
+
+  }
+  #div-lat-interna-1{
+    background-color: #D3D3D3;
+    height: 10%;
+  }
+  
+  
+  #div-lat-interna-2{
+    background-color: #D3D3D3;
+    height: 10%;
+  
+  }
+  
+  #slide{
+    background-color: red;
+    height: 100%;
+    width: 15%;
+    left: 50%;
+    display: none;
+    overflow: hidden;
+    z-index: 1;
+    float: left;
+  }
+  
+  #div-lat-2{
+    background-color: blue;
+    height: 100%;
+    width: 80%;
+    left: 20%;
+    float: right;
+
+  }
+
+  #botao{
+      background-color: red;
+  }
+ 
